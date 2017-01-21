@@ -2,14 +2,14 @@
 
 # what happens when you type google in the google browser
 
-Ring ring
+Ring ring  
 Operator: Whaaat's up?
 Me: Oh hey I'm trying to reach my buddy  
 Operator: Oh yeah? What's his name?  
 Me: It's g...  
 Operator: Gary? George? Greg? Glen?  
 Me: Yeah I'm tryna reach George  
-Operator: Sweet. (aside) Hey Dave..?
+Operator: Sweet. (aside) Hey Dave..?  
 Dave: (from elsewhere) Yeah?  
 Operator: Do you have George's address?  
 Dave: Hell yes I do. Here ya go!  
